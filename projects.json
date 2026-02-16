@@ -1,0 +1,36 @@
+{
+  "Simulations": [
+    {
+      "title": "MasterCard Security Analyst",
+      "description": "Completed a job simulation where I served as a security analyst on Mastercard’s Security Awareness Team. Identified phishing threats and implemented security training.",
+      "tools": "Security Awareness, Threat Analysis",
+      "certificate": "certificates/MasterCard.pdf"
+    },
+    {
+      "title": "ANZ Cybersecurity Simulation",
+      "description": "Completed a simulation focused on identifying cybersecurity threats at ANZ. Investigated emails and analyzed packet captures.",
+      "tools": "Wireshark",
+      "certificate": "certificates/ANZ.pdf"
+    }
+  ],
+  "labs": [
+    {
+      "title": "Blue Teaming Lab",
+      "description": "Practiced log analysis, SIEM monitoring, and intrusion detection techniques.",
+      "tools": "Splunk, OSSEC"
+    },
+    {
+      "title": "Threat Intelligence",
+      "description": "I analysed malware artifacts using threat intelligence platforms to identify IOCs, C2 servers and understand adversery tactics",
+      "tools": "Virus Total, Red Canary"
+    },
+    {
+      "title":"Network Forensics",
+      "description": "I analyzed network traffic for poisoning attacks using Wireshark to identify the rogue machine, compromised accounts, and affected systems.",
+      "tools":"Wireshark"
+    }
+
+    
+  ]
+}
+
